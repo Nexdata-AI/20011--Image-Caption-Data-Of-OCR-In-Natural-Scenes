@@ -3,7 +3,7 @@
 ## Description
 20,000 Image Caption Data Of OCR In Natural Scenes, including Asian and European languages, a total of 14 languages, the collection environment includes shop plaques, stop signs, posters, road signs and other scenes, including a variety of shooting angles. The description language is English, which mainly describes the text arrangement, text content, color and other information.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1288?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/llm/1288?source=Github
 
 
 ## Data size
